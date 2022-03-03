@@ -3,6 +3,12 @@
 </script>
 
 <h1 class="big-p text-center">Mobile App Prototype</h1>
+<h2 class="text-lg 2xl:text-xl font-medium px-2 lg:px-4">
+  We recommend playing with our prototype app via Android App for best
+  experience, However, if you do not have Android Devices or do not wish to
+  install the app. You can try the Web App Version, please note that it is not
+  optimized, there may be some bugs and issues.
+</h2>
 <hr />
 
 <ul class="list-disc pl-8">
@@ -10,7 +16,7 @@
     <Link
       href="https://github.com/Food-Busters/food_busters/releases/download/1.0.305/food_busters-1.0.305.apk"
     >
-      Download APK for Android
+      Download APK for Android (Recommended)
     </Link>
   </li>
   <li>
