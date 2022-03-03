@@ -15,4 +15,7 @@
       Try Sample Smart Food Scanner
     </Link>
   </li>
+  <li>
+    <Link href="https://food-waste-quotes.vercel.app/">Food Waste Quotes</Link>
+  </li>
 </ul>
