@@ -16,6 +16,13 @@
     </Link>
   </li>
   <li>
-    <Link href="https://food-waste-quotes.vercel.app/">Food Waste Quotes</Link>
+    <Link href="https://food-waste-quotes.vercel.app/">
+      Food Waste Quotes Generator
+    </Link>
+  </li>
+  <li>
+    <Link href="https://github.com/Food-Busters">
+      Food Busters GitHub Homepage
+    </Link>
   </li>
 </ul>

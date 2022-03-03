@@ -24,6 +24,9 @@
       Visit Web App Version
     </Link>
   </li>
+
+  <hr class="mr-8 mt-6 mb-5" />
+
   <li>
     <Link
       href="https://github.com/Food-Busters/food_busters/releases/download/1.0.305/manual-1.0.305.pdf"
