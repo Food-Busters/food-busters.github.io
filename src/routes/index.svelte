@@ -8,10 +8,7 @@
 <ul class="list-disc pl-8">
   <li><a href="/prototype">Mobile App Prototype</a></li>
   <li>
-    <Link
-      href="https://food-busters-classifier.vercel.app/"
-      title="Demo Model via Webcam"
-    >
+    <Link href="https://food-busters-classifier-v2.vercel.app/">
       Try Sample Smart Food Scanner
     </Link>
   </li>
