@@ -14,7 +14,7 @@
 <ul class="list-disc pl-8">
   <li>
     <Link
-      href="https://github.com/Food-Busters/food_busters/releases/download/1.0.305/food_busters-1.0.305.apk"
+      href="https://github.com/Food-Busters/food_busters/releases/download/1.0.412/food_busters-1.0.412.apk"
     >
       Download APK for Android (Recommended)
     </Link>
@@ -29,7 +29,7 @@
 
   <li>
     <Link
-      href="https://github.com/Food-Busters/food_busters/releases/download/1.0.305/manual-1.0.305.pdf"
+      href="https://github.com/Food-Busters/food_busters/releases/download/1.0.412/manual-1.0.412.pdf"
     >
       Download Manual
     </Link>
