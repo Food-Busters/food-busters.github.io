@@ -9,8 +9,8 @@
 <main class="p-8">
   <img
     class="mx-auto mb-5 cursor-pointer"
-    title="Red Somwua for Luck, Click to navigate to home page"
-    src="redsomwua.webp"
+    title="Click to navigate to home page"
+    src="somwua.webp"
     alt="Somwua"
     width="200"
     on:click={() => {
